@@ -13,5 +13,6 @@ public class Hello {
 		System.out.println("v1.0 Branch 4번째");
 		System.out.println("v1.0 Branch 5번째");
 		System.out.println("v1.0 Branch 6번째");
+		System.out.println("v1.0 Branch 7번째");
 	}
 }
