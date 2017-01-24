@@ -6,6 +6,6 @@ public class Hello {
 	}
 	
 	public Hello(){
-		System.out.println("¾È³çÇÏ¼õ~~~~");
+		System.out.println("ì•ˆë…•");
 	}
 }
